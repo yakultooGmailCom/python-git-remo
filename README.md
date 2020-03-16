@@ -1,2 +1,1 @@
-# Pyh_CSIA
-# Hello Wordgit reset HEAD^1 --hard
+﻿# 我是說明文件# python-git-remo
